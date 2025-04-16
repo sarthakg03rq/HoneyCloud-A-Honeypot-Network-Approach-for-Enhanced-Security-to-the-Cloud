@@ -1,4 +1,4 @@
-<h1 align="center">Major Project</h1>
+<h1 align="center">HoneyCloud: Major Project</h1>
 <h3 align="center">by G.Sarthak, Satyam Shukla, A.Bhavitha</h3>
 
 - 🔭 This is a major project [HoneyCloud-A Honeypot Network](https://github.com/sarthakg03rq/HoneyCloud-A_Honeypot_Network) made by G.Sarthak, Satyam Shukla, A.Bhavitha attending CMR College of Engineering and Technology.
