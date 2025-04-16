@@ -1,6 +1,7 @@
+<h1 align="center">Major Project</h1>
 <h3 align="center">by G.Sarthak, Satyam Shukla, A. Bhavitha</h3>
 
-- 🔭 I’m currently working on [HoneyCloud-A Honeypot Network](https://github.com/sarthakg03rq/HoneyCloud-A-Honeypot-Network-Approach-for-Enhanced-Security-to-the-Cloud/tree/main)
+- 🔭 This project is [HoneyCloud-A Honeypot Network](https://github.com/sarthakg03rq/HoneyCloud-A-Honeypot-Network-Approach-for-Enhanced-Security-to-the-Cloud/tree/main)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sarthakg03rq](https://github.com/sarthakg03rq)
 
