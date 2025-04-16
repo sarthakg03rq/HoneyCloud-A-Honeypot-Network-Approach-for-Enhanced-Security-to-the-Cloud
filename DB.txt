@@ -1,0 +1,19 @@
+create database HoneypotAppDB;
+use HoneypotAppDB;
+
+create table register(username varchar(30) primary key,
+password varchar(30),
+contact varchar(12),
+email varchar(30),
+address varchar(40));
+
+create table files(username varchar(30),
+filename varchar(50),
+filepassword varchar(100),
+shares varchar(300));
+
+
+
+
+
+
